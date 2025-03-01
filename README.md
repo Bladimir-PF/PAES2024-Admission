@@ -1,2 +1,2 @@
 # PAES2024-Admission
-This is the repository for the materiales used in the research project "Probability of admission to selective higher education in Chile" 
+This is the repository of the materials used in the research project "Probability of Admission to Selective Higher Education in Chile" 
